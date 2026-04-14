@@ -1,0 +1,7 @@
+numpy==1.26.4
+pandas==2.2.3
+seaborn==0.13.2
+streamlit==1.39.0
+tqdm==4.67.1
+scikit-learn==1.2.2
+joblib==1.2.0

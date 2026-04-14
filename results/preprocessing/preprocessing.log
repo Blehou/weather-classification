@@ -1,0 +1,10 @@
+2026-04-14 01:28:36,232 | INFO | Debut preprocessing
+2026-04-14 01:28:36,256 | INFO | Suppression des anomalies terminee selon les seuils : {'Humidity': (0, 100), 'Precipitation (%)': (0, 100), 'Temperature': (-50, 60), 'Atmospheric Pressure': (900, 1100)}
+2026-04-14 01:28:36,272 | INFO | Limitation des outliers terminee pour les colonnes : ['Temperature', 'Humidity', 'Wind Speed', 'Precipitation (%)', 'Atmospheric Pressure', 'UV Index', 'Visibility (km)']
+2026-04-14 01:28:36,288 | INFO | Encodage One Hot terminee pour les colonnes : ['Cloud Cover', 'Season', 'Location']
+2026-04-14 01:28:36,294 | INFO | Encodage de la target 'Weather Type' termine.
+2026-04-14 12:24:23,036 | INFO | Debut preprocessing
+2026-04-14 12:24:23,066 | INFO | Suppression des anomalies terminee selon les seuils : {'Humidity': (0, 100), 'Precipitation (%)': (0, 100), 'Temperature': (-50, 60), 'Atmospheric Pressure': (900, 1100)}
+2026-04-14 12:24:23,075 | INFO | Limitation des outliers terminee pour les colonnes : ['Temperature', 'Humidity', 'Wind Speed', 'Precipitation (%)', 'Atmospheric Pressure', 'UV Index', 'Visibility (km)']
+2026-04-14 12:24:23,083 | INFO | Encodage One Hot terminee pour les colonnes : ['Cloud Cover', 'Season', 'Location']
+2026-04-14 12:24:23,090 | INFO | Encodage de la target 'Weather Type' termine.

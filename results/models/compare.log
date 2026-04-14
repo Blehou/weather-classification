@@ -1,0 +1,100 @@
+2026-04-14 11:06:13,561 | INFO | ===== START MODEL COMPARISON =====
+2026-04-14 11:06:13,878 | INFO | ===== SVC =====
+2026-04-14 11:06:14,145 | INFO | Test Accuracy: 0.9451
+2026-04-14 11:06:14,145 | INFO | Classification Report:
+2026-04-14 11:06:14,145 | INFO | 
+              precision    recall  f1-score   support
+
+           0       0.92      0.94      0.93       590
+           1       0.93      0.95      0.94       589
+           2       0.97      0.96      0.96       596
+           3       0.97      0.93      0.95       575
+
+    accuracy                           0.95      2350
+   macro avg       0.95      0.94      0.95      2350
+weighted avg       0.95      0.95      0.95      2350
+
+2026-04-14 11:06:14,146 | INFO | ===== RandomForest =====
+2026-04-14 11:06:14,284 | INFO | Test Accuracy: 0.9557
+2026-04-14 11:06:14,285 | INFO | Classification Report:
+2026-04-14 11:06:14,285 | INFO | 
+              precision    recall  f1-score   support
+
+           0       0.94      0.95      0.94       590
+           1       0.95      0.96      0.96       589
+           2       0.97      0.96      0.96       596
+           3       0.96      0.95      0.96       575
+
+    accuracy                           0.96      2350
+   macro avg       0.96      0.96      0.96      2350
+weighted avg       0.96      0.96      0.96      2350
+
+2026-04-14 11:06:14,285 | INFO | ===== GradientBoosting =====
+2026-04-14 11:06:14,320 | INFO | Test Accuracy: 0.9523
+2026-04-14 11:06:14,320 | INFO | Classification Report:
+2026-04-14 11:06:14,320 | INFO | 
+              precision    recall  f1-score   support
+
+           0       0.94      0.94      0.94       590
+           1       0.94      0.96      0.95       589
+           2       0.97      0.96      0.96       596
+           3       0.96      0.95      0.96       575
+
+    accuracy                           0.95      2350
+   macro avg       0.95      0.95      0.95      2350
+weighted avg       0.95      0.95      0.95      2350
+
+2026-04-14 11:06:14,321 | INFO | ===== BEST MODEL =====
+2026-04-14 11:06:14,321 | INFO | Best model: RandomForest
+2026-04-14 11:06:14,321 | INFO | Best accuracy: 0.9557
+2026-04-14 11:06:14,322 | INFO | ===== END MODEL COMPARISON =====
+2026-04-14 22:36:50,069 | INFO | ===== START MODEL COMPARISON =====
+2026-04-14 22:36:50,420 | INFO | ===== SVC =====
+2026-04-14 22:36:51,491 | INFO | Test Accuracy: 0.9451
+2026-04-14 22:36:51,491 | INFO | Classification Report:
+2026-04-14 22:36:51,492 | INFO | 
+              precision    recall  f1-score   support
+
+           0       0.92      0.94      0.93       590
+           1       0.93      0.95      0.94       589
+           2       0.97      0.96      0.96       596
+           3       0.97      0.93      0.95       575
+
+    accuracy                           0.95      2350
+   macro avg       0.95      0.94      0.95      2350
+weighted avg       0.95      0.95      0.95      2350
+
+2026-04-14 22:36:51,495 | INFO | ===== RandomForest =====
+2026-04-14 22:36:51,700 | INFO | Test Accuracy: 0.9557
+2026-04-14 22:36:51,700 | INFO | Classification Report:
+2026-04-14 22:36:51,701 | INFO | 
+              precision    recall  f1-score   support
+
+           0       0.94      0.95      0.94       590
+           1       0.95      0.96      0.96       589
+           2       0.97      0.96      0.96       596
+           3       0.96      0.95      0.96       575
+
+    accuracy                           0.96      2350
+   macro avg       0.96      0.96      0.96      2350
+weighted avg       0.96      0.96      0.96      2350
+
+2026-04-14 22:36:51,704 | INFO | ===== GradientBoosting =====
+2026-04-14 22:36:51,804 | INFO | Test Accuracy: 0.9523
+2026-04-14 22:36:51,804 | INFO | Classification Report:
+2026-04-14 22:36:51,804 | INFO | 
+              precision    recall  f1-score   support
+
+           0       0.94      0.94      0.94       590
+           1       0.94      0.96      0.95       589
+           2       0.97      0.96      0.96       596
+           3       0.96      0.95      0.96       575
+
+    accuracy                           0.95      2350
+   macro avg       0.95      0.95      0.95      2350
+weighted avg       0.95      0.95      0.95      2350
+
+2026-04-14 22:36:51,807 | INFO | ===== BEST MODEL =====
+2026-04-14 22:36:51,807 | INFO | Best model: RandomForest
+2026-04-14 22:36:51,808 | INFO | Best accuracy: 0.9557
+2026-04-14 22:36:51,877 | INFO | ===== END MODEL COMPARISON =====

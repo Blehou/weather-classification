@@ -1,0 +1,49 @@
+2026-04-14 10:00:44,703 | INFO | Best params: {'max_features': 'sqrt', 'n_estimators': 300}
+2026-04-14 10:00:44,703 | INFO | Best CV score: 0.9560
+2026-04-14 10:00:44,799 | INFO | Validation Accuracy: 0.9500
+2026-04-14 10:00:44,800 | INFO | Classification Report:
+2026-04-14 10:00:44,807 | INFO | 
+              precision    recall  f1-score   support
+
+           0       0.93      0.95      0.94       472
+           1       0.95      0.97      0.96       471
+           2       0.96      0.94      0.95       477
+           3       0.97      0.94      0.95       460
+
+    accuracy                           0.95      1880
+   macro avg       0.95      0.95      0.95      1880
+weighted avg       0.95      0.95      0.95      1880
+
+2026-04-14 10:02:09,910 | INFO | Best params: {'max_features': 'sqrt', 'n_estimators': 300}
+2026-04-14 10:02:09,911 | INFO | Best CV score: 0.9560
+2026-04-14 10:02:09,996 | INFO | Validation Accuracy: 0.9500
+2026-04-14 10:02:09,996 | INFO | Classification Report:
+2026-04-14 10:02:10,002 | INFO | 
+              precision    recall  f1-score   support
+
+           0       0.93      0.95      0.94       472
+           1       0.95      0.97      0.96       471
+           2       0.96      0.94      0.95       477
+           3       0.97      0.94      0.95       460
+
+    accuracy                           0.95      1880
+   macro avg       0.95      0.95      0.95      1880
+weighted avg       0.95      0.95      0.95      1880
+
+2026-04-14 10:24:14,421 | INFO | Best params: {'max_features': 'sqrt', 'n_estimators': 300}
+2026-04-14 10:24:14,421 | INFO | Best CV score: 0.9560
+2026-04-14 10:24:14,502 | INFO | Validation Accuracy: 0.9500
+2026-04-14 10:24:14,503 | INFO | Classification Report:
+2026-04-14 10:24:14,509 | INFO | 
+              precision    recall  f1-score   support
+
+           0       0.93      0.95      0.94       472
+           1       0.95      0.97      0.96       471
+           2       0.96      0.94      0.95       477
+           3       0.97      0.94      0.95       460
+
+    accuracy                           0.95      1880
+   macro avg       0.95      0.95      0.95      1880
+weighted avg       0.95      0.95      0.95      1880
+
+2026-04-14 10:24:14,611 | INFO | Model saved at: src/results/models/random_forest/random_forest.pkl

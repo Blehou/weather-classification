@@ -1,0 +1,32 @@
+2026-04-14 01:39:27,502 | INFO | Best params: {'C': 1.0, 'gamma': 'scale'}
+2026-04-14 01:39:27,502 | INFO | Best CV score: 0.9505
+2026-04-14 01:39:27,720 | INFO | Validation Accuracy: 0.9441
+2026-04-14 01:39:27,720 | INFO | Classification Report:
+2026-04-14 01:39:27,728 | INFO | 
+              precision    recall  f1-score   support
+
+           0       0.91      0.94      0.93       472
+           1       0.94      0.95      0.95       471
+           2       0.95      0.95      0.95       477
+           3       0.97      0.93      0.95       460
+
+    accuracy                           0.94      1880
+   macro avg       0.94      0.94      0.94      1880
+weighted avg       0.94      0.94      0.94      1880
+2026-04-14 10:23:40,418 | INFO | Best params: {'C': 1.0, 'gamma': 'scale'}
+2026-04-14 10:23:40,419 | INFO | Best CV score: 0.9505
+2026-04-14 10:23:40,610 | INFO | Validation Accuracy: 0.9441
+2026-04-14 10:23:40,610 | INFO | Classification Report:
+2026-04-14 10:23:40,620 | INFO | 
+              precision    recall  f1-score   support
+
+           0       0.91      0.94      0.93       472
+           1       0.94      0.95      0.95       471
+           2       0.95      0.95      0.95       477
+           3       0.97      0.93      0.95       460
+
+    accuracy                           0.94      1880
+   macro avg       0.94      0.94      0.94      1880
+weighted avg       0.94      0.94      0.94      1880
+
+2026-04-14 10:23:40,625 | INFO | Model saved at: src/results/models/svc/svc.pkl
